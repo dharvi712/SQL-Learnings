@@ -1,0 +1,21 @@
+SQL
+What is SQL?
+* SQL = Structured Query Language
+* Used to talk to a database
+* Database stores structured data (rows + columns)
+Think like this:
+* Database = folder
+* Table = Excel sheet
+* Row = one record
+* Column = one property
+- [ ] 
+- [ ] A table is rows + columns with data types.
+- [ ] SQL IS NOT LIKE C / Java / JS
+- [ ] SQL commands are NOT re-runnable safely
+- [ ] Some commands are ONE-TIME commands
+Command	Can run multiple times?
+CREATE DATABASE	❌ NO
+CREATE TABLE	❌ NO
+SELECT	✅ YES
+INSERT	⚠️ Depends
+UPDATE	⚠️ Dangerous
