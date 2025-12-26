@@ -1,0 +1,3 @@
+🔹 GROUP BY
+👉 Problem:
+We want count / average / max / min values group-wise
